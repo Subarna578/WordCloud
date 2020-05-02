@@ -1,6 +1,6 @@
 # WordCloud
 
-![Create your own Wordcloud] (./src/WORD CLOUD.jpg)
+![Create your own Wordcloud] (./wordcloud.png)
 
 Word cloud generator and tag cloud generator similar to Wordle
 
