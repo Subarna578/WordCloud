@@ -1,0 +1,8 @@
+ipywidgets
+wordcloud
+numpy
+matplotlib
+fileupload
+io
+sys
+
